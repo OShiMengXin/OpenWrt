@@ -20,7 +20,7 @@ env:
 jobs:
   Long-Running-Build:
     runs-on: ubuntu-22.04
-    timeout-minutes: 500
+    timeout-minutes: 720
 
     steps:
     - name: Check Server Performance
