@@ -18,7 +18,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  Long-Running-Build:
+  long-running-job:
     runs-on: ubuntu-22.04
     timeout-minutes: 720
 
